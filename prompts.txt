@@ -1,0 +1,7 @@
+1. Me podrías ayudar a hacer un análisis exploratorio de datos (EDA) numérico y visual sobre un conjunto de datos meteorológicos.
+Quiero entender bien las características principales de los datos numéricos, explorar estadísticas descriptivas y crear visualizaciones que me ayuden a interpretar la información.
+
+2. Estoy haciendo un análisis exploratorio de datos numérico y visual con un conjunto de datos meteorológicos usando Apache Zeppelin y Spark, sin usar SQL. Necesito ayuda para obtener estadísticas clave, generar visualizaciones claras y entender mejor la información que entregan los datos. También busco consejos o trucos para aprovechar al máximo Spark dentro de Zeppelin y hacer el análisis más eficiente y completo.
+
+3. Estoy trabajando con datos del clima en Zeppelin y ya logré mostrar promedios por hora como la temperatura, humedad y viento. Me gustaría ir un poco más allá, ver patrones interesantes o relaciones entre variables, tal vez detectar horas más extremas o comportamientos raros.
+También quiero mejorar cómo se ven los gráficos, que sean más claros o comparativos para presentar mejor el análisis.
